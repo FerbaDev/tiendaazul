@@ -85,7 +85,7 @@ const Checkout = () => {
     };
     try {
       let response = await axios.post(
-        "https://backend-maria.vercel.app/create_preference",
+        "https://server-om9jg4kom-ferbadev.vercel.app//create_preference",
         {
           items: newArray,
           payer: newPayer,
