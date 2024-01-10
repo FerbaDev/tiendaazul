@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "lorem",
+    "img": "",
+    "descripcion": "ahdga ashjgd ajhsgdhgs hasg ",
+    "path": "/marca/gravagna"
+  },
+  {
+    "id": 2,
+    "nombre": "lksd skjsd",
+    "img": "",
+    "descripcion": "",
+    "path": "/marca/justaosadia"
+  },
+  {
+    "id": 3,
+    "nombre": "",
+    "img": "",
+    "descripcion": "",
+    "path": "/marca/troncoso"
+  }
+]
